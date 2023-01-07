@@ -2,7 +2,7 @@
 
 A snake game made using the turtle and Tkinter module.
 
-Each file is responsible for each component the game;
+Each file is responsible for each component the game and constructed in OOP;
 
   Scoreboard keeps track of the score.
 
